@@ -5,7 +5,7 @@
 - 어제 밤 추가 내용 
 
     - 자바 제네릭, Comparator 추가 공부가 필요함 
-    - <T extends Object>는 좀 아닌 듯 
+    - "T extends Object"는 좀 아닌 듯 
 
         - https://www.hackerrank.com/challenges/java-comparator/problem
 
