@@ -28,4 +28,7 @@
 - 가게 홈페이지 개선할 점 
 
     - 홈페이지 첫 로딩 때 오래걸리는 부분이 존재 
-    
+
+- Java Reflection
+
+ - https://www.hackerrank.com/challenges/java-reflection-attributes/problem?h_r=next-challenge&h_v=zen
