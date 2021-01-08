@@ -11,3 +11,4 @@
 | 8  |  2021.1.5  | SSAFY 주의 사항 정리, 자바 notion 정리, 홈페이지 개선 부분 수정할 점 정리 |   |
 | 9  |  2021.1.6  |  hugo static web page (gitlab 정리) |  |
 | 10 |  2021.1.7  |  hugo static web page 내부 수정, 오류 해결 못함, 코테 문제 풀이 |  |
+| 11 |  2021.1.8  |  hugo static web page 내부 수정 & 오류 해결, 코테 문제 풀이(한 문제가 너무 어렵다 ㅠㅠ) |  |
